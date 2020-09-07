@@ -28,4 +28,4 @@ e comparar a evolução dos treinos de forma gratuita.
 
 ### Funcionalidades para a versão 3.0:
 
-- Ainda não há um backlog montado, faça sua sugestão criando uma issue no repositório.
+- Ainda não há um backlog montado, [envie sua sugestão criando uma issue no repositório](https://github.com/pedropapa/cac-speed-timer/issues/new).
